@@ -3,7 +3,7 @@ package org.faguzo.nabla.module;
 import org.nabla.system.Hub;
 
 
-public class Servo extends Element {
+public class Servo extends Module {
 	private int position;
 	public static final int ORIGINAL = 0;
 	public static final int MAX = 179;
