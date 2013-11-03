@@ -1,4 +1,4 @@
-package org.faguzo.nabla.system;
+package org.nabla.system;
 
 import java.io.IOException;
 import java.io.InputStream;
