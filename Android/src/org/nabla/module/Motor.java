@@ -1,6 +1,6 @@
-package org.faguzo.nabla.module;
+package org.nabla.module;
 
-import org.faguzo.nabla.system.Hub;
+import org.nabla.system.Hub;
 
 public class Motor extends Element {
 	private int speed;
