@@ -2,7 +2,7 @@ package org.nabla.module;
 
 import org.nabla.system.Hub;
 
-public class Motor extends Element {
+public class Motor extends Module {
 	private int speed;
 	public static final int STOP = 0;
 	public static final int MAX = 255;
