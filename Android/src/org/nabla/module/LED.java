@@ -2,7 +2,7 @@ package org.nabla.module;
 
 import org.nabla.system.Hub;
 
-public class LED extends Element {
+public class LED extends Module {
 	private boolean status;
 
 	public final static boolean ON = true;
